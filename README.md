@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Shadow! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>I am a 18 years old webdev and LUAU dev!</em></p>
+<p><em>I am a 18 years old WebDev!</em></p>
 
 <p><em>You can support me here: https://ko-fi.com/L3L0TRTQA</em></p>
 
